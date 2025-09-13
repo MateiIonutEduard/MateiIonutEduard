@@ -5,4 +5,4 @@ I'm interested <br/> in open source collaborations, we can work together on vari
 Thanks for visiting my profile! 😊 <br/>
 <br/>
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MateiIonutEduard&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MateiIonutEduard&show_icons=false&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
