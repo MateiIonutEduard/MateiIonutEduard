@@ -33,8 +33,7 @@ Whether academic or industry-related, I enjoy contributing to projects that have
 
 ### 🌍 Open Source
 
-I’m open to contributing to or co-developing **open-source projects** that are both technically challenging and intellectually rewarding.  
-If you’re working on something exciting in cryptography, systems design, or developer tooling, I’d love to connect.
+I’m open to contributing to or co-developing **open-source projects** that are both technically challenging and intellectually <br/>rewarding. If you’re working on something exciting in cryptography, systems design, or developer tooling, I’d love to connect.
 
 
 ### Github Stats
