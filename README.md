@@ -1,6 +1,6 @@
-# 👋 Hello, I’m [Matei Ionuț-Eduard]
+# 👋 Hello, I’m Matei Ionuț-Eduard
 I’m a **cryptography researcher** specializing in **elliptic curve–based cryptography** and **advanced isogeny studies**.  
-My academic interests also extend into other areas of **information theory**, such as **data compression** and efficient information representation.
+My academic interests also extend into other areas of **information theory**, such as **data compression** and efficient<br/> information representation.
 <br/>
 
 ### Github Stats
