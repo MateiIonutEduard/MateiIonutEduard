@@ -9,15 +9,22 @@ jobs:
   badge:
     runs-on: ubuntu-latest
     steps:
-      - name: Custom Status badge
+      - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Encode icon to base64
+        id: icon
+        run: |
+          # Encode the icon file to base64 and set as output
+          icon_base64=$(base64 -w 0 github-custom-logo.svg)
+          echo "icon_base64=$icon_base64" >> $GITHUB_OUTPUT
 
       - name: Generate GitHub Stats Badge
         uses: RubbaBoy/BYOB@v1.3.0
         with:
           NAME: 'github_stats' # A unique identifier for this badge
           LABEL: 'GitHub Stats' # The text on the left side
-          ICON: 'https://github.com/MateiIonutEduard/MateiIonutEduard/blob/master/github-custom-logo.svg' # Uses the custom GitHub icon
+          ICON: 'data:image/svg+xml;base64,${{ steps.icon.outputs.icon_base64 }}' # Uses the custom GitHub icon as base64
           STATUS: 'Active' # The dynamic text on the right side
           COLOR: '00EEFF' # The badge's color
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
