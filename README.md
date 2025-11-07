@@ -38,7 +38,7 @@ I’m open to contributing to or co-developing **open-source projects** that are
 ### 🙏 Thank You
 
 Thank you sincerely for visiting my profile and taking the time to read about my work and interests.  
-Feel free to reach out for collaboration or just to discuss cryptography, math, or software engineering!<br/>
+Feel free to reach out for collaboration or just to discuss cryptography, math, or software engineering!<br/><br/>
 
 <table style="border-collapse: collapse; border: 0;">
   <tr>
