@@ -29,7 +29,12 @@ I’m particularly interested in collaborations involving:
 - Innovative or educational applications in computer science
 - Cryptography research
 
-Whether academic or industry-related, I enjoy contributing to projects that have real-world value.
+Whether academic or industry-related, I enjoy contributing to projects that have real-world value.<br/>
+
+### 🌍 Open Source
+
+I’m open to contributing to or co-developing **open-source projects** that are both technically challenging and intellectually rewarding.  
+If you’re working on something exciting in cryptography, systems design, or developer tooling, I’d love to connect.
 
 
 ### Github Stats
