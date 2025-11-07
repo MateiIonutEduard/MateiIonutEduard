@@ -22,5 +22,15 @@ I primarily use:
 
 I value clean, maintainable code and enjoy experimenting with new technologies that balance performance and clarity.<br/>
 
+### 🤝 Collaboration Interests
+
+I’m particularly interested in collaborations involving:
+- Practical, high-impact software tools (CLI, desktop, or web)
+- Innovative or educational applications in computer science
+- Cryptography research
+
+Whether academic or industry-related, I enjoy contributing to projects that have real-world value.
+
+
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MateiIonutEduard&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
