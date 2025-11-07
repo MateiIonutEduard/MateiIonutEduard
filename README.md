@@ -35,6 +35,10 @@ Whether academic or industry-related, I enjoy contributing to projects that have
 
 I’m open to contributing to or co-developing **open-source projects** that are both technically challenging and intellectually <br/>rewarding. If you’re working on something exciting in cryptography, systems design, or developer tooling, I’d love to connect.
 
+### 🙏 Thank You
+
+Thank you sincerely for visiting my profile and taking the time to read about my work and interests.  
+Feel free to reach out for collaboration or just to discuss cryptography, math, or software engineering!<br/>
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MateiIonutEduard&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
