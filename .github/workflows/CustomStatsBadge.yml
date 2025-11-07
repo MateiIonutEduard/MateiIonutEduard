@@ -1,0 +1,23 @@
+name: Custom Stats Badge
+
+on:
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches: [ master ] # Triggers on push to master
+
+jobs:
+  badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Custom Status badge
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats Badge
+        uses: RubbaBoy/BYOB@v1.3.0
+        with:
+          NAME: 'github_stats' # A unique identifier for this badge
+          LABEL: 'GitHub Stats' # The text on the left side
+          ICON: 'github-custom-logo.svg' # Uses the built-in GitHub icon
+          STATUS: 'Active' # The dynamic text on the right side
+          COLOR: '00EEFF' # The badge's color
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
