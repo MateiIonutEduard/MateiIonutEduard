@@ -17,7 +17,7 @@ jobs:
         with:
           NAME: 'github_stats' # A unique identifier for this badge
           LABEL: 'GitHub Stats' # The text on the left side
-          ICON: 'github-custom-logo.svg' # Uses the built-in GitHub icon
+          ICON: 'https://github.com/MateiIonutEduard/MateiIonutEduard/blob/master/github-custom-logo.svg' # Uses the custom GitHub icon
           STATUS: 'Active' # The dynamic text on the right side
           COLOR: '00EEFF' # The badge's color
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
