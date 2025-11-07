@@ -1,0 +1,65 @@
+name: Generate GitHub Stats Badge
+
+on:
+  push:
+    branches: [ master, main ]
+  workflow_dispatch:  # Allows manual triggering
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+
+jobs:
+  generate-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate custom GitHub stats badge
+        uses: RubbaBoy/[email protected]
+        with:
+          NAME: 'github_stats'
+          LABEL: 'Github Stats'
+          STATUS: 'Updated ${{ github.ref }}'  # You can customize this
+          COLOR: '1E90FF'  # DodgerBlue color
+          LOGO: 'https://github.com/MateiIonutEduard/MateiIonutEduard/blob/master/github-custom-logo.svg?raw=true'
+          LOGO_COLOR: 'white'  # Optional: colorize the logo
+          COMMIT: 'true'  # Auto-commit the badge
+          PATH: 'badges'  # Folder to store badges
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload badge as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-stats-badge
+          path: badges/github_stats.json
+          retention-days: 5
+
+  # Optional: Additional job to demonstrate dynamic stats
+  update-stats:
+    runs-on: ubuntu-latest
+    needs: generate-badge
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Get repository statistics
+        id: stats
+        run: |
+          # Example: Get star count (requires jq and GitHub CLI)
+          # stars=$(curl -s "https://api.github.com/repos/${{ github.repository }}" | jq -r '.stargazers_count')
+          # echo "stars=$stars" >> $GITHUB_OUTPUT
+          
+          # For now, using a placeholder - replace with actual stats
+          echo "repo_stats=Active" >> $GITHUB_OUTPUT
+          
+      - name: Update badge with dynamic stats
+        uses: RubbaBoy/[email protected]
+        with:
+          NAME: 'github_dynamic_stats'
+          LABEL: 'Dynamic Stats'
+          STATUS: '${{ steps.stats.outputs.repo_stats }}'
+          COLOR: 'green'
+          LOGO: 'https://github.com/MateiIonutEduard/MateiIonutEduard/blob/master/github-custom-logo.svg?raw=true'
+          COMMIT: 'true'
+          PATH: 'badges'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
