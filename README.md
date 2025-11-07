@@ -40,5 +40,15 @@ I’m open to contributing to or co-developing **open-source projects** that are
 Thank you sincerely for visiting my profile and taking the time to read about my work and interests.  
 Feel free to reach out for collaboration or just to discuss cryptography, math, or software engineering!<br/>
 
-### <img src="https://github.com/MateiIonutEduard/MateiIonutEduard/blob/master/github-custom-logo.svg" width="25">&#8203; GitHub Stats
+<table style="border-collapse: collapse; border: 0;">
+  <tr>
+    <td width="50" valign="middle" style="border: 0; padding-right:8px;">
+      <img style="margin-top: 20%;" src="https://github.com/MateiIonutEduard/MateiIonutEduard/blob/master/github-custom-logo.svg" width="25">
+    </td>
+    <td valign="middle" style="border: 0;">
+      GitHub Stats
+    </td>
+  </tr>
+</table>
+
 <img src="https://github-readme-stats.vercel.app/api?username=MateiIonutEduard&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
