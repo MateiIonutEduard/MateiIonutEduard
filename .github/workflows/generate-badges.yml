@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate custom GitHub stats badge
-        uses: RubbaBoy/[ionuteduardm@gmail.com]
+        uses: RubbaBoy/[email protected]
         with:
           NAME: 'github_stats'
           LABEL: 'Github Stats'
