@@ -15,10 +15,12 @@ Alongside my academic work, I have worked in several **software development comp
 
 I primarily use:
 - **C#.NET**
+- **C/C++**
 - **Rust**
 - **Go (Golang)**
 - **Python**
-- **JavaScript / TypeScript**
+- **TypeScript**
+- **JavaScript**
 
 I value clean, maintainable code and enjoy experimenting with new technologies that balance performance and clarity.<br/>
 
