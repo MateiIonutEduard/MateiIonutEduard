@@ -44,4 +44,4 @@ Feel free to reach out for collaboration or just to discuss cryptography, math, 
 
 <img src="https://img.shields.io/badge/Github%20Stats-181717?logo=github&logoColor=white&color=3250A8&labelColor=181717&style=for-the-badge" alt="Github Stats" height="120">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MateiIonutEduard&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats-bice-iota-93.vercel.app/api?username=MateiIonutEduard&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
