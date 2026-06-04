@@ -1,46 +1,39 @@
 # 👋 Hello, I’m Matei Ionuț-Eduard
-I’m a **cryptography researcher** specializing in **elliptic curve–based cryptography** and **advanced isogeny studies**.  
-My academic interests also extend into other areas of **information theory**, such as **data compression** and efficient<br/> information representation.
-<br/>
 
-### 🔬 Research Focus
+**Cryptography Researcher** — elliptic curve and isogeny-based cryptography.  
+Exploring the intersection of pure mathematics and secure, real-world systems.
 
-My primary focus lies in understanding and improving the mathematical structures underlying elliptic curve cryptography,<br/> particularly through **isogeny-based constructions**. I enjoy exploring both theoretical and applied aspects of cryptography, <br/>always seeking new connections between pure mathematics and real-world systems.
+---
 
-### 💻 Software Engineering Experience
+### 🔐 What I Do
 
-Alongside my academic work, I have worked in several **software development companies**, contributing to the creation of **web applications**, **tools**, and **game projects**. I have hands-on experience with both **backend** and **frontend** technologies, and have<br/> developed projects using **Unity** and **Unreal Engine**.
+I engineer **high-performance, security-critical software** where every cycle matters. My work bridges rigorous cryptographic research with production-grade backend development in **ASP.NET Core**, leveraging **P/Invoke**, native **C/C++**, and **SIMD optimizations** to push performance boundaries.
 
-### 🛠️ Technical Stack
+I build with **C#** and **C** at the core, reinforced by deep **C++** proficiency for systems-level, security-focused components. This low-level, precision-driven mindset carries into my experience with **Unity** and **Unreal Engine** — where real-time constraints demand flawless execution.
 
-I primarily use:
-- **C#.NET**
-- **C/C++**
-- **Rust**
-- **Go (Golang)**
-- **Python**
-- **TypeScript**
-- **JavaScript**
+### 🛠 Core Stack
 
-I value clean, maintainable code and enjoy experimenting with new technologies that balance performance and clarity.<br/>
+**Languages**  
+C# &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python
 
-### 🤝 Collaboration Interests
+**Frameworks & Engines**  
+ASP.NET Core &nbsp;·&nbsp; Angular &nbsp;·&nbsp; React &nbsp;·&nbsp; Unity &nbsp;·&nbsp; Unreal Engine
 
-I’m particularly interested in collaborations involving:
-- Practical, high-impact software tools (CLI, desktop, or web)
-- Innovative or educational applications in computer science
-- Cryptography research
+**Systems**  
+P/Invoke &nbsp;·&nbsp; SIMD &nbsp;·&nbsp; Assembly
 
-Whether academic or industry-related, I enjoy contributing to projects that have real-world value.<br/>
+### 🤝 Open to Collaboration
 
-### 🌍 Open Source
+- Cryptography research & tooling
+- High-performance systems and developer tooling (CLI, desktop, web)
+- Security-focused open-source projects
+- Educationally valuable or technically ambitious software
 
-I’m open to contributing to or co-developing **open-source projects** that are both technically challenging and intellectually <br/>rewarding. If you’re working on something exciting in cryptography, systems design, or developer tooling, I’d love to connect.
+If you're building something demanding — mathematically, architecturally, or in real-time — I'd like to hear about it.
 
-### 🙏 Thank You
+---
 
-Thank you sincerely for visiting my profile and taking the time to read about my work and interests.  
-Feel free to reach out for collaboration or just to discuss cryptography, math, or software engineering!<br/><br/>
+*Thank you for visiting. Reach out anytime — cryptography, math, or engineering, I'm always glad to talk shop.*
 
 <img src="https://img.shields.io/badge/Github%20Stats-181717?logo=github&logoColor=white&color=3250A8&labelColor=181717&style=for-the-badge" alt="Github Stats" height="120">
 
