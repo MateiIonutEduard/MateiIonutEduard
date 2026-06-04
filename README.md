@@ -1,15 +1,14 @@
 # 👋 Hello, I’m Matei Ionuț-Eduard
 
-**Cryptography Researcher** — elliptic curve and isogeny-based cryptography.  
-Exploring the intersection of pure mathematics and secure, real-world systems.
+**Cryptography Researcher** — elliptic curve and isogeny-based cryptography, building the foundations for secure, future-proof systems.
 
 ---
 
 ### 🔐 What I Do
 
-I engineer **high-performance, security-critical software** where every cycle matters. My work bridges rigorous cryptographic research with production-grade backend development in **ASP.NET Core**, leveraging **P/Invoke**, native **C/C++**, and **SIMD optimizations** to push performance boundaries.
+I engineer **high-performance, security-critical software** where every cycle and every byte matters. My work bridges rigorous cryptographic research with production-grade backend development in **ASP.NET Core**, leveraging **P/Invoke**, native **C/C++**, and **SIMD optimizations** to push performance to its absolute limits.
 
-I build with **C#** and **C** at the core, reinforced by deep **C++** proficiency for systems-level, security-focused components. This low-level, precision-driven mindset carries into my experience with **Unity** and **Unreal Engine** — where real-time constraints demand flawless execution.
+I build with **C#** and **C** at the core, reinforced by deep **C++** proficiency for systems-level, security-focused components. This low-level, precision-driven mindset carries into my experience with **Unity** and **Unreal Engine** — where real-time constraints demand flawless execution, frame after frame.
 
 ### 🛠 Core Stack
 
@@ -20,16 +19,11 @@ C# &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; 
 ASP.NET Core &nbsp;·&nbsp; Angular &nbsp;·&nbsp; React &nbsp;·&nbsp; Unity &nbsp;·&nbsp; Unreal Engine
 
 **Systems**  
-P/Invoke &nbsp;·&nbsp; SIMD &nbsp;·&nbsp; Assembly
+P/Invoke &nbsp;·&nbsp; SIMD &nbsp;·&nbsp; Assembly — when the compiler isn't enough
 
 ### 🤝 Open to Collaboration
 
-- Cryptography research & tooling
-- High-performance systems and developer tooling (CLI, desktop, web)
-- Security-focused open-source projects
-- Educationally valuable or technically ambitious software
-
-If you're building something demanding — mathematically, architecturally, or in real-time — I'd like to hear about it.
+I'm looking to work with people who are serious about building something technically demanding. If your project pushes boundaries in cryptography, high-performance systems, or real-time software — let's talk.
 
 ---
 
