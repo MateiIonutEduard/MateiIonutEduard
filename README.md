@@ -1,6 +1,7 @@
 # 👋 Hello, I’m Matei Ionuț-Eduard
 
-**Cryptography Researcher** — elliptic curve and isogeny-based cryptography, building the foundations for secure, future-proof systems.
+**Cryptography Researcher** — elliptic curve and isogeny-based cryptography, building the foundations for secure, <br/>
+future-proof systems. Creator of **Eduard**, a cryptographic framework that carries my name — and my standards.
 
 ---
 
